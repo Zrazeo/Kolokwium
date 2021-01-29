@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(studentapp)
+project(myProgram)
+
 include_directories(include)
 add_executable(studentapp src/libtest.cpp)
 
