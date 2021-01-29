@@ -1,0 +1,3 @@
+/home/croxoner/Pulpit/Kolokwium/build/CMakeFiles/rebuild_cache.dir
+/home/croxoner/Pulpit/Kolokwium/build/CMakeFiles/edit_cache.dir
+/home/croxoner/Pulpit/Kolokwium/build/CMakeFiles/myProgram.dir
