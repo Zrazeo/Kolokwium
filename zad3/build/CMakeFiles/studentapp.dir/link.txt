@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/studentapp.dir/src/libtest.cpp.o  -o studentapp  -Wl,-rpath,/home/croxoner/Pulpit/Kolokwium/zad3/build: libstudlib.so 

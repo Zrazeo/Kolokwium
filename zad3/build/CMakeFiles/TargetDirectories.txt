@@ -1,0 +1,8 @@
+/home/croxoner/Pulpit/Kolokwium/zad3/build/CMakeFiles/install/strip.dir
+/home/croxoner/Pulpit/Kolokwium/zad3/build/CMakeFiles/install/local.dir
+/home/croxoner/Pulpit/Kolokwium/zad3/build/CMakeFiles/install.dir
+/home/croxoner/Pulpit/Kolokwium/zad3/build/CMakeFiles/list_install_components.dir
+/home/croxoner/Pulpit/Kolokwium/zad3/build/CMakeFiles/rebuild_cache.dir
+/home/croxoner/Pulpit/Kolokwium/zad3/build/CMakeFiles/edit_cache.dir
+/home/croxoner/Pulpit/Kolokwium/zad3/build/CMakeFiles/studlib.dir
+/home/croxoner/Pulpit/Kolokwium/zad3/build/CMakeFiles/studentapp.dir
